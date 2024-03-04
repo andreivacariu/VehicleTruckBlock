@@ -1,0 +1,5 @@
+name: VehicleTrunkBlock
+version: '${version}'
+main: dev.vacariu.vehicletrunkblock.VehicleTrunkBlock
+api-version: '1.20'
+depend: ["Vehicles"]

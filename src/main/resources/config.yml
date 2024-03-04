@@ -1,0 +1,4 @@
+
+errorMessage: "&7You can't do that!"
+blacklistedItemNames: ["Sac", "Stone"]
+blacklistedItemMaterial: [BLAZE_ROD, DIAMOND, DIAMOND_BLOCK]
